@@ -1,2 +1,3 @@
 # project_001
-University website using CSS and HTML
+* University website
+* Using only CSS and HTML
